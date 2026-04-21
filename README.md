@@ -1,2 +1,2 @@
-<h1>Very idot certified</h1>
-<h4>Experienced in Unreal Engine C++, C#, Lua, Go, JavaScript and Python.</h4>
+<h1>Hello</h1>
+<h4>Experienced in C++, C#, Lua, Go, JS/TS, Java and Python.</h4>
