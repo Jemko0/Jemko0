@@ -1,2 +1,2 @@
 <h1>Hello</h1>
-<h4>Experienced in C++, C#, Lua, Go, JS/TS, Java and Python.</h4>
+im very cool and i like to be alive most of the time :3
